@@ -1,0 +1,7 @@
+class RecipeView{
+    #parentElement =ocument.querySelector('.recipe');
+    #data;
+    render(data){
+        this.data
+    }
+}

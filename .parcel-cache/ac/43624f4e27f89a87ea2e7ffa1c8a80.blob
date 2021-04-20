@@ -1,0 +1,4 @@
+class RecipeView{
+    #parentElement =ocument.querySelector('.recipe');
+    
+}

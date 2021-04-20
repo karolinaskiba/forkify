@@ -1,0 +1,6 @@
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+_parcelHelpers.defineInteropFlag(exports);
+_parcelHelpers.export(exports, "SPI_URL", function () {
+  return SPI_URL;
+});
+const SPI_URL = 'https://forkify-api.herokuapp.com/api/v2/recipes/';
