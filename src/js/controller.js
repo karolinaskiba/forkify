@@ -1,11 +1,14 @@
 import * as model from './model.js';
 import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
+import resultsView from './views/resultsView.js';
+import paginationView from './views/paginationView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-
-const recipeContainer = document.querySelector('.recipe');
+// if (module.hot) {
+//   module.hot.accept();
+// }
 
 const controllRecipes = async function (url) {
   try {
@@ -27,18 +30,27 @@ const controllRecipes = async function (url) {
 };
 const controllSearchResult = async function () {
   try {
+    resultsView.renderSpinner();
+
     const query = searchView.getQuery();
     if (!query) return;
+
     await model.loadSearchResults(query);
-    console.log(model.state.search.results);
+
+    //resultsView.render(model.state.search.results);
+    resultsView.render(model.getSearchResultPage(1));
+    paginationView.render(model.state.search);
   } catch (err) {
     recipeView.renderError();
   }
 };
-
+const controllPagination = function () {
+  console.log('pag');
+};
 const init = function () {
   recipeView.addHandlerRender(controllRecipes);
   searchView.addHandlerSearch(controllSearchResult);
+  paginationView.addHandlerClick(controllPagination);
 };
 ///////////////////////////////////////
 
