@@ -457,15 +457,12 @@ require('regenerator-runtime/runtime');
 // if (module.hot) {
 // module.hot.accept();
 // }
-const controllRecipes = async function (url) {
+const controllRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
     if (!id) return;
     _viewsRecipeViewJsDefault.default.renderSpinner();
-    // 1) Loading recipe
     await _modelJs.loadRecipe(id);
-    const {recipe} = _modelJs.state.recipe;
-    // 2) renderin Recipe
     _viewsRecipeViewJsDefault.default.render(_modelJs.state.recipe);
   } catch (err) {
     _viewsRecipeViewJsDefault.default.renderError();
@@ -484,8 +481,9 @@ const controllSearchResult = async function () {
     _viewsRecipeViewJsDefault.default.renderError();
   }
 };
-const controllPagination = function () {
-  console.log('pag');
+const controllPagination = function (goToPage) {
+  _viewsResultsViewJsDefault.default.render(_modelJs.getSearchResultPage(goToPage));
+  _viewsPaginationViewJsDefault.default.render(_modelJs.state.search);
 };
 const init = function () {
   _viewsRecipeViewJsDefault.default.addHandlerRender(controllRecipes);
@@ -12559,7 +12557,7 @@ var _viewJs = require('./view.js');
 var _viewJsDefault = _parcelHelpers.interopDefault(_viewJs);
 var _urlImgIconsSvg = require('url:../../img/icons.svg');
 var _urlImgIconsSvgDefault = _parcelHelpers.interopDefault(_urlImgIconsSvg);
-require('fractional');
+var _fractional = require('fractional');
 class RecipeView extends _viewJsDefault.default {
   _parentElement = document.querySelector('.recipe');
   _message = '';
@@ -12641,9 +12639,22 @@ class RecipeView extends _viewJsDefault.default {
        </div>
        `;
   }
+  _generateMarkupIngredient(ing) {
+    return `
+    <li class="recipe__ingredient">
+              <svg class="recipe__icon">
+                <use href="${_urlImgIconsSvgDefault.default}.svg#icon-check"></use>
+              </svg>
+              <div class="recipe__quantity">${new _fractional.Fraction(ing.quantity)}</div>
+              <div class="recipe__description">
+                <span class="recipe__unit">${ing.unit}</span>
+                ${ing.description}
+              </div>
+            </li>
+    `;
+  }
   addHandlerRender(handler) {
     window.addEventListener('hashchange', handler);
-    window.addEventListener('load', handler);
   }
 }
 exports.default = new RecipeView();
@@ -13073,7 +13084,6 @@ var _urlImgIconsSvgDefault = _parcelHelpers.interopDefault(_urlImgIconsSvg);
 class View {
   _data;
   render(data) {
-    if (!data || Array.isArray(data) && data.length === 0) return this.renderError();
     this._data = data;
     const markup = this._generateMarkup();
     this._clear();
@@ -13233,8 +13243,7 @@ class PaginationView extends _viewJsDefault.default {
       const btn = e.target.closest('.btn--inline');
       if (!btn) return;
       const goToPage = +btn.dataset.goto;
-      console.log(goToPage);
-      handler();
+      handler(goToPage);
     });
   }
 }

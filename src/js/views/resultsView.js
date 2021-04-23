@@ -7,6 +7,7 @@ class ResultsView extends View {
   _errorMessage = 'We coudnt find any query, try again!';
   _generateMarkup() {
     return this._data.map(this._generateMarkupPreview).join('');
+    
   }
   _generateMarkupPreview(results) {
     return `

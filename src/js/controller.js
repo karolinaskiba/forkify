@@ -10,19 +10,15 @@ import 'regenerator-runtime/runtime';
 //   module.hot.accept();
 // }
 
-const controllRecipes = async function (url) {
+const controllRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
 
     if (!id) return;
     recipeView.renderSpinner();
 
-    //1) Loading recipe
-
     await model.loadRecipe(id);
-    const { recipe } = model.state.recipe;
 
-    //2) renderin Recipe
     recipeView.render(model.state.recipe);
   } catch (err) {
     recipeView.renderError();
@@ -44,8 +40,9 @@ const controllSearchResult = async function () {
     recipeView.renderError();
   }
 };
-const controllPagination = function () {
-  console.log('pag');
+const controllPagination = function (goToPage) {
+  resultsView.render(model.getSearchResultPage(goToPage));
+  paginationView.render(model.state.search);
 };
 const init = function () {
   recipeView.addHandlerRender(controllRecipes);
