@@ -1,0 +1,16 @@
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+_parcelHelpers.defineInteropFlag(exports);
+var _viewJs = require('./view.js');
+var _viewJsDefault = _parcelHelpers.interopDefault(_viewJs);
+var _previewView = require('./preview.View');
+var _previewViewDefault = _parcelHelpers.interopDefault(_previewView);
+require('url:../../img/icons.svg');
+class ResultsView extends _viewJsDefault.default {
+  _parentElement = document.querySelector('.results');
+  _message = '';
+  _errorMessage = 'We coudnt find any query, try again!';
+  _generateMarkup() {
+    return this._data.map(result => _previewViewDefault.default.render(result, false)).join('');
+  }
+}
+exports.default = new ResultsView();

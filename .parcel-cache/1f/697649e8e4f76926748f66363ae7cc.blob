@@ -1,0 +1,60 @@
+var _modelJs = require('./model.js');
+var _viewsRecipeViewJs = require('./views/recipeView.js');
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+var _viewsRecipeViewJsDefault = _parcelHelpers.interopDefault(_viewsRecipeViewJs);
+var _viewsSearchViewJs = require('./views/searchView.js');
+var _viewsSearchViewJsDefault = _parcelHelpers.interopDefault(_viewsSearchViewJs);
+var _viewsResultsViewJs = require('./views/resultsView.js');
+var _viewsResultsViewJsDefault = _parcelHelpers.interopDefault(_viewsResultsViewJs);
+var _viewsPaginationViewJs = require('./views/paginationView.js');
+var _viewsPaginationViewJsDefault = _parcelHelpers.interopDefault(_viewsPaginationViewJs);
+require('core-js/stable');
+require('regenerator-runtime/runtime');
+// if (module.hot) {
+// module.hot.accept();
+// }
+const controllRecipes = async function () {
+  try {
+    const id = window.location.hash.slice(1);
+    if (!id) return;
+    _viewsRecipeViewJsDefault.default.renderSpinner();
+    _viewsResultsViewJsDefault.default.update(_modelJs.getSearchResultPage());
+    await _modelJs.loadRecipe(id);
+    _viewsRecipeViewJsDefault.default.render(_modelJs.state.recipe);
+  } catch (err) {
+    _viewsRecipeViewJsDefault.default.renderError();
+  }
+};
+const controllSearchResult = async function () {
+  try {
+    _viewsResultsViewJsDefault.default.renderSpinner();
+    const query = _viewsSearchViewJsDefault.default.getQuery();
+    if (!query) return;
+    await _modelJs.loadSearchResults(query);
+    // resultsView.render(model.state.search.results);
+    _viewsResultsViewJsDefault.default.render(_modelJs.getSearchResultPage(1));
+    _viewsPaginationViewJsDefault.default.render(_modelJs.state.search);
+  } catch (err) {
+    _viewsRecipeViewJsDefault.default.renderError();
+  }
+};
+const controllPagination = function (goToPage) {
+  _viewsResultsViewJsDefault.default.render(_modelJs.getSearchResultPage(goToPage));
+  _viewsPaginationViewJsDefault.default.render(_modelJs.state.search);
+};
+const controlServings = function (newServings) {
+  // update recipe servings
+  _modelJs.updateServings(newServings);
+  // update recipe view
+  // recipeView.render(model.state.recipe);
+  _viewsRecipeViewJsDefault.default.update(_modelJs.state.recipe);
+};
+const controlAddBookmark = function () {};
+const init = function () {
+  _viewsRecipeViewJsDefault.default.addHandlerRender(controllRecipes);
+  _viewsSearchViewJsDefault.default.addHandlerSearch(controllSearchResult);
+  _viewsPaginationViewJsDefault.default.addHandlerClick(controllPagination);
+  _viewsRecipeViewJsDefault.default.addHandlerUpdareServings(controlServings);
+};
+// /////////////////////////////////////
+init();

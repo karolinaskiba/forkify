@@ -1,4 +1,4 @@
-20949
+20951
 171C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\maxlength.js121436361000000000 0
 137C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\sass\main.scss132562249780000000 0
 157C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\sortedUniqBy.js121436361000000000 0
@@ -106,7 +106,7 @@
 174C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.includes.js121436361000000000 0
 153C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\browserslist.cmd132633786038517529 0
 153C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regjsparser\parser.js121436361000000000 0
-123C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist132636550282539635 1
+123C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist132639015539506142 1
 196C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-whitespace\node_modules\chalk\types\index.d.ts121436361000000000 0
 150C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\bn.js\CHANGELOG.md121436361000000000 0
 154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-accessor-descriptor132633786012153739 1
@@ -127,6 +127,10 @@
 181C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\url\node_modules\querystring\test\common-index.js130031394420000000 0
 161C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\core\lib\gensync-utils132633785705310893 1
 151C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\unpipe\package.json132633785963843435 0
+147C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules132633785963583596 1
+148C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\qs\.eslintignore130953300300000000 0
+178C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\request-promise-core\configure\request-next.js121436361000000000 0
+147C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\preview.View.js132639014309721124 0
 154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\kebabCase.js121436361000000000 0
 129C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\index.html132634848432619815 0
 155C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\repeat-string\README.md131216832310000000 0
@@ -152,7 +156,7 @@
 163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\source\utilities.d.ts121436361000000000 0
 203C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-validator-identifier\scripts\generate-identifier-regex.js121012626000000000 0
 214C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-unicode\node_modules\chalk\node_modules\supports-color\readme.md131663821590000000 0
-139C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\view.js132636514133119274 0
+139C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\view.js132639013969998317 0
 162C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\precedence\bbb.js121436361000000000 0
 201C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-convert-values\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
 159C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sshpk\man\man1\sshpk-conv.1130970391170000000 0
@@ -183,9 +187,9 @@
 148C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2016132633785845234889 1
 127C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\sass132562249780000000 1
 146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\util-deprecate132633785963633578 1
+202C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\safe-regex\.travis.yml130677139180000000 0
 138C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\sass\_base.scss132562249780000000 0
-202C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 165C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\quoteStyle.js121436361000000000 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\instance\ends-with.js121436361000000000 0
 140C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\sass\_header.scss132562249780000000 0
@@ -267,7 +271,7 @@
 144C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash.clone132633786008495988 1
 195C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-whitespace\node_modules\ansi-styles\readme.md131628273600000000 0
 170C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-zoom.js121436361000000000 0
-139C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\controller.js132636547474243498 0
+139C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\controller.js132639009240706523 0
 159C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\supports-color\package.json132633785970749218 0
 166C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.array.at.js121436361000000000 0
 178C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\node_modules\domelementtype\lib132633785818831114 1
@@ -281,7 +285,7 @@
 160C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\node_path\y\bbb132633785778785739 1
 160C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\public-encrypt\withPublic.js121436361000000000 0
 157C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\reflect\set.js121436361000000000 0
-134C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\model.js132636550755098677 0
+134C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\model.js132639005792860563 0
 154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\get-intrinsic\index.js121436361000000000 0
 152C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\deep-is\package.json132633786019279358 0
 192C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-unique-selectors\node_modules\supports-color\license121436361000000000 0
@@ -292,7 +296,10 @@
 144C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\setimmediate132633785975786100 1
 158C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\dist132633785707399608 1
 194C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-reduce-transforms\node_modules\supports-color\index.js121436361000000000 0
-131C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views132634817252981310 1
+131C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views132639010463470606 1
+160C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-resolve\readme.md121436361000000000 0
+148C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\bookmarksView.js132639015175757212 0
+163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\MinFromTime.js121436361000000000 0
 169C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-transform-function-name132633785968660478 1
 159C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimist\test\stop_early.js121436361000000000 0
 196C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-whitespace\node_modules\color-convert\index.js121436361000000000 0
@@ -326,8 +333,8 @@
 138C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\mkdirp132633786003469087 1
 155C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_nativeKeysIn.js121436361000000000 0
 191C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-unicode\node_modules\postcss\CHANGELOG.md121436361000000000 0
-145C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js132636549926776049 0
-146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\resultsView.js132636496420990650 0
+145C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js132639007964847841 0
+146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\resultsView.js132639015532548464 0
 176C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\scss\atelier-savanna-light.scss121436361000000000 0
 180C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\simple-swizzle\node_modules\is-arrayish\index.js131738689870000000 0
 168C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\package-manager\lib\types.js121436361000000000 0
@@ -504,11 +511,11 @@
 179C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\sharedarraybuffer.js121436361000000000 0
 135C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\url132633785963733514 1
 175C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss\lib\warn-once.js121436361000000000 0
-159C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\has-flag132633785966461850 1
-153C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\.eslintrc121436361000000000 0
 188C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-html\node_modules\domhandler\LICENSE121436361000000000 0
 192C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-gradients\node_modules\color-convert\route.js121436361000000000 0
 140C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\arr-diff132633786028173887 1
+159C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\has-flag132633785966461850 1
+153C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\.eslintrc121436361000000000 0
 181C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-string\node_modules\postcss\lib132633785720071831 1
 166C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2020\HasOwnProperty.js121436361000000000 0
 162C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\TrimString.js121436361000000000 0
@@ -629,15 +636,15 @@
 149C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uniqs\.travis.yml130461333950000000 0
 176C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-calc\node_modules\color-name\LICENSE130953959930000000 0
 152C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-arrayish\index.js130855357210000000 0
+141C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\aws-sign2132633786023696654 1
+163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv-expand\dotenv-expand.png121436361000000000 0
+196C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\parse.js121436361000000000 0
 170C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-unicode\node_modules132633785926996237 1
 146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\simple-swizzle132633785976115890 1
 165C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\crypto-browserify\example\test.js130909473450000000 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.array.flat.js121436361000000000 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\every.js121436361000000000 0
 185C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-url\node_modules\color-name\test.js131446304190000000 0
-141C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\aws-sign2132633786023696654 1
-163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv-expand\dotenv-expand.png121436361000000000 0
-196C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\parse.js121436361000000000 0
 165C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-selector-parser\dist\util132633785701523225 1
 136C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\aws4132633786023686647 1
 151C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ajv\lib\dot\ref.jst121436361000000000 0
@@ -2362,19 +2369,10 @@
 175C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\virtual\find-last.js121436361000000000 0
 158C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden132633785973977219 1
 184C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
-147C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules132633785963583596 1
-148C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\qs\.eslintignore130953300300000000 0
-178C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\request-promise-core\configure\request-next.js121436361000000000 0
 189C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-gradients\node_modules\postcss\lib\node.js121436361000000000 0
 167C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\stylehacks\node_modules\chalk\types132633785702892388 1
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\public-encrypt\test\ec.pass.priv121436361000000000 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-local-by-default132633785973757342 1
-178C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\TreeWalker.js121436361000000000 0
-149C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\urix\package.json132633785963333758 0
-142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\slice-ansi132633785976045954 1
-150C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\README.md121436361000000000 0
-184C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Syloti_Nagri.js121436361000000000 0
-160C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\styles\dark.css121436361000000000 0
 188C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-string\node_modules\chalk\node_modules132633785905926487 1
 156C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2020\Type.js121436361000000000 0
 195C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-ordered-values\node_modules\postcss\docs\source-maps.md121436361000000000 0
@@ -2584,6 +2582,12 @@
 146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\string_decoder132633785971448770 1
 195C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\resolve\test\resolver\multirepo\packages\package-a\package.json121436361000000000 0
 158C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\symbol\split.js121436361000000000 0
+178C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\TreeWalker.js121436361000000000 0
+149C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\urix\package.json132633785963333758 0
+142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\slice-ansi132633785976045954 1
+150C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\README.md121436361000000000 0
+184C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script\Syloti_Nagri.js121436361000000000 0
+160C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\styles\dark.css121436361000000000 0
 194C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Medefaidrin.js121436361000000000 0
 194C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\regenerate-unicode-properties\Script_Extensions\Dives_Akuru.js121436361000000000 0
 142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\snapdragon132633785963693522 1
@@ -5511,7 +5515,6 @@
 163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\ncp\test\regular-fixtures\src\e130614920630000000 0
 172C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-support\source-map-support.js121436361000000000 0
 163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-resolve\changelog.md121436361000000000 0
-160C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-resolve\readme.md121436361000000000 0
 206C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\CHANGELOG.md121436361000000000 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\date\to-json.js121436361000000000 0
 172C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-resolve\source-map-resolve.js121436361000000000 0
@@ -5706,7 +5709,6 @@
 166C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\CommittedAsset.js121436361000000000 0
 226C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-html\node_modules\dom-serializer\node_modules\domhandler\lib\node.d.ts.map121436361000000000 0
 156C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\signal-exit\package.json132633785975766115 0
-154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\set-value\node_modules132633785929021588 1
 153C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\signal-exit\README.md121436361000000000 0
 177C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@nodelib\fs.walk\out\providers\stream.spec.js121436361000000000 0
 168C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\indent-option.js121436361000000000 0
@@ -5731,6 +5733,7 @@
 171C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\types\lib\comments\addComment.js121012626000000000 0
 151C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\minimatch\README.md131004798210000000 0
 150C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\set-value\index.js121436361000000000 0
+154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\set-value\node_modules132633785929021588 1
 154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\set-value\package.json132633785971338826 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\styles\pojoaque.css121436361000000000 0
 151C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\set-value\README.md121436361000000000 0
@@ -10962,7 +10965,7 @@
 168C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\babylon-walk\src\traverse.js121436361000000000 0
 185C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\src\loaders\browser\html-loader.js121436361000000000 0
 194C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\node_modules\postcss\lib\postcss.js121436361000000000 0
-142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.c4b52749.svg132636550282309777 0
+142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.c4b52749.svg132639015536467804 0
 159C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server132633785957517319 1
 199C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-discard-overridden\node_modules\postcss\lib\previous-map.js121436361000000000 0
 181C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.reflect.define-metadata.js121436361000000000 0
@@ -11267,7 +11270,7 @@
 163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\PK.js121436361000000000 0
 142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\des.js\lib132633785783083090 1
 151C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\extend\CHANGELOG.md121436361000000000 0
-134C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.html132636550282339767 0
+134C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.html132639015539336244 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-convert-values\README.md121436361000000000 0
 179C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-convert-values\node_modules\ansi-styles132633785993275430 1
 162C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\escape-string-regexp\readme.md131005306320000000 0
@@ -13702,7 +13705,6 @@
 180C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\InputEvent-impl.js121436361000000000 0
 189C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\PageTransitionEvent-impl.js121436361000000000 0
 183C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\PopStateEvent-impl.js121436361000000000 0
-171C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\dommatrix.js121436361000000000 0
 183C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\ProgressEvent-impl.js121436361000000000 0
 180C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\TouchEvent-impl.js121436361000000000 0
 177C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\events\UIEvent-impl.js121436361000000000 0
@@ -14175,7 +14177,7 @@
 178C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\icss-utils\node_modules\postcss\lib\warning.js121436361000000000 0
 179C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\icss-utils\node_modules\postcss\docs\guidelines132633785732714049 1
 183C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\icss-utils\node_modules\postcss\docs\source-maps.md121436361000000000 0
-145C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js.map132636550282519649 0
+145C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js.map132639015539486154 0
 189C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\icss-utils\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
 157C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\iterator132633785862334393 1
 173C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\icss-utils\node_modules\has-flag\index.js131593941750000000 0
@@ -15681,7 +15683,6 @@
 165C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\IteratorValue.js121436361000000000 0
 159C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\MakeDay.js121436361000000000 0
 154C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array132633785863303831 1
-163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\MinFromTime.js121436361000000000 0
 158C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\modulo.js121436361000000000 0
 165C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\MonthFromTime.js121436361000000000 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2018\ObjectCreate.js121436361000000000 0
@@ -17193,7 +17194,7 @@
 170C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\virtual\splice.js121436361000000000 0
 170C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\virtual\values.js121436361000000000 0
 163C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\SE.js121436361000000000 0
-141C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\logo.5d271741.png132636550282329766 0
+141C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\logo.5d271741.png132639015536487796 0
 168C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\array-filtering.js121436361000000000 0
 173C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\array-find-from-last.js121436361000000000 0
 165C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\array-unique.js121436361000000000 0
@@ -17415,7 +17416,7 @@
 180C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\async-iterator-create-proxy.js121436361000000000 0
 182C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\input-file-directory.js121436361000000000 0
 177C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\async-iterator-prototype.js121436361000000000 0
-146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css.map132636550282469668 0
+146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css.map132639015539436225 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\regexp-exec.js121436361000000000 0
 160C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\classof.js121436361000000000 0
 177C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\correct-prototype-getter.js121436361000000000 0
@@ -18203,6 +18204,7 @@
 183C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\dom-manip-convenience.js121436361000000000 0
 171C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\dom-range.js121436361000000000 0
 191C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\domfocusin-domfocusout-events.js121436361000000000 0
+171C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\dommatrix.js121436361000000000 0
 180C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\plugin-proposal-export-namespace-from\lib132633785671941403 1
 170C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\download.js121436361000000000 0
 169C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-wrap-function\README.md121012626000000000 0
@@ -18336,7 +18338,7 @@
 170C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\promises.js121436361000000000 0
 171C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\proximity.js121436361000000000 0
 181C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\public-class-fields.js121436361000000000 0
-141C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js132636550282479662 0
+141C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.250b04c7.js132639015539436225 0
 164C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\ParcelConfig.js121436361000000000 0
 175C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\queryselector.js121436361000000000 0
 177C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\referrer-policy.js121436361000000000 0
@@ -20939,11 +20941,11 @@
 145C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\uuid.ps1132633786042525074 0
 142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\which132633786042694958 0
 146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\which.cmd132633786042694958 0
-144C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\favicon.80934ffe.png132636550282329766 0
+144C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\favicon.80934ffe.png132639015536447812 0
 144C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\favicon.f1877f87.png132633783583574033 0
 142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.c781f215.svg132633783583643993 0
-142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.d4a14980.svg132636550282099909 0
-142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css132636550282339767 0
+142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.d4a14980.svg132639015536737629 0
+142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.1206e35b.css132639015539336244 0
 142C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.54e1d6b5.css132633783583853860 0
 146C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.54e1d6b5.css.map132633783583943802 0
 141C:\Users\karolina.skiba\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.67fc8209.js132633783583883833 0
